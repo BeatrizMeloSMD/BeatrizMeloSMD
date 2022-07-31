@@ -1,7 +1,7 @@
 ### Hey, meu nome é Beatriz Melo👋
 - 🎈 21 anos
 - 🏠 Santana de Parnaíba/SP
-- 🎓 Foramada em Administração de Empresas/UNIP
+- 🎓 Formada em Administração de Empresas/UNIP
 - 📚 Inlgês intermediário/CNA 
 - 🌱 Atualmente estou aprendendo sobre programação na Rocketseat e DIO
 - 😄 Pronomes: ela/dela
